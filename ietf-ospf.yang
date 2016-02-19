@@ -1,5 +1,5 @@
 module ietf-ospf {
-  namespace "urn:ietf:params:xml:ns:yang:ietf-ospf-testing";
+  namespace "urn:ietf:params:xml:ns:yang:ietf-ospf-test";
 
   prefix ospf;
 
